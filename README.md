@@ -17,4 +17,5 @@ Features
 
 More infos at [classicscoder.com](www.classicscoder.com/projects.html)
 
+Youtube link:
 [![SpriterNX](https://img.youtube.com/vi/UXoY8GFn09M/0.jpg)](https://www.youtube.com/watch?v=UXoY8GFn09M)
