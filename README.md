@@ -14,3 +14,7 @@ Features
 - Create Assembler data blocks
 
 *I create every day code, some useful, some just for fun or to try out something. But most of them would need more attention, time I not have. That’s why I publish them on Github, so someone can continue and make it a fully polished piece of software.*
+
+More infos at [classicscoder.com](www.classicscoder.com/projects.html)
+
+[![SpriterNX](https://img.youtube.com/vi/UXoY8GFn09M/0.jpg)](https://www.youtube.com/watch?v=UXoY8GFn09M)
